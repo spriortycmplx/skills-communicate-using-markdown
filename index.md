@@ -9,3 +9,5 @@
 #### This is an `<h4>` header, which is the fourth largest
 
 ##### This is an `<h5>` header, which is the fifth largest
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
